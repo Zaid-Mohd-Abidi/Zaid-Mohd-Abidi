@@ -4,13 +4,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<style> 
-
-	h1{background-color: lightblue;} </style>
+	
 	<title>My Portfolio</title>
 </head>
 <body>
-	<main><h1>BOOM!</h1>
+	<main><h1>Hi!</h1>
 		
 	</main>
 	
